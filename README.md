@@ -1,4 +1,5 @@
-# Submission for Sprint 1
+# Submission for Sprint 1 - UNTs Best
+Arnav Verma, Mohamad Babiker, Waleed Esmael, Mathew Norman
 This submission includes
 1. Requirements Doc
 2. Design Doc
@@ -8,5 +9,6 @@ This submission includes
 
 # IMPORTANT!!!! The code for Demo is at:
 https://github.com/UNTs-Best/polish
+
 
 
