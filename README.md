@@ -5,10 +5,12 @@ This submission includes
 2. Design Doc
 3. Reflections Doc
 4. Changes Doc
-5. Demo
+5. Demo - Polish_Demo.mov --> Download raw file since github does not support media playback
+
 
 # IMPORTANT!!!! The code for Demo is at:
 https://github.com/UNTs-Best/polish
+
 
 
 
